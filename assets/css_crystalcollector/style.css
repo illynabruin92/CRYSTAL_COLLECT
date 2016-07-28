@@ -1,0 +1,39 @@
+body {
+  background-image: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/outlets.png");
+
+}
+
+.title, .container, #score, #player-score, #random-number {
+  font-family: 'Amatic SC', cursive;
+  color: white;
+}
+.title {
+  font-size: 100px;
+  text-align: center;
+}
+
+.container {
+  font-size: 30px;
+  text-align: center;
+  padding: 30px;
+}
+
+img {
+  width: 130px;
+  height: 130px;
+  display:inline-block;
+}
+
+#score, #player-score, #random-number-board {
+  font-size: 30px;
+  text-align: center;
+}
+
+#random-number-board {
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+#player-score {
+  padding-top: 10px;
+}
